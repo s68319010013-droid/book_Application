@@ -1,0 +1,7 @@
+{
+  "name": "wachirawitApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
