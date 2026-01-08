@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "วันพีชเล่ม93 ผู้เป็นที่รักแห่งเมืองเอบิสึ",
+    "author": "เออิจิโระ โอดะ",
+    "price": "80",
+    "available_copies": 3,
+    "cover_url": "https://cdn-local.mebmarket.com/meb/server1/102862/Thumbnail/book_detail_large.gif?2"
+  },
+  {
+    "id": 2,
+    "title": "วันพีชเล่ม94",
+    "author": "เออิจิโระ โอดะ",
+    "price": "80",
+    "available_copies": 0,
+    "cover_url": "https://storage.naiin.com/system/application/bookstore/resource/product/201912/496766/1000228972_front_XXL.jpg"
+  },
+  {
+    "id": 3,
+    "title": "วันพีชเล่ม95 การผจญภัยของโอเด้ง",
+    "author": "เออิจิโระ โอดะ",
+    "price": "80",
+    "available_copies": 5,
+    "cover_url": "https://bci.kinokuniya.com/jsp/images/book-img/97861/97861649/9786164925588.JPG"
+  },
+  {
+    "id": 4,
+    "title": "วันพีชเล่ม96 โอเด้งคงไม่ใช่โอเด้งถ้าไม่ต้ม",
+    "author": "เออิจิโระ โอดะ",
+    "price": "80",
+    "available_copies": 0,
+    "cover_url": "https://cdn-local.mebmarket.com/meb/server1/102865/Thumbnail/book_detail_large.gif?2"
+  },
+  {
+    "id": 5,
+    "title": "วันพีชเล่ม97 ONE PIECE vol.97 วันพีช",
+    "author": "เออิจิโระ โอดะ",
+    "price": "80",
+    "available_copies": 55,
+    "cover_url": "https://storage.naiin.com/system/application/bookstore/resource/product/202012/517533/1000238073_front_XXL.jpg"
+  },
+  {
+    "id": 6,
+    "title": "วันพีชเล่ม98 ข้ารับใช้แห่งความรุ่งโรจน์",
+    "author": "เออิจิโระ โอดะ",
+    "price": "80",
+    "available_copies": 65,
+    "cover_url": "https://cdn-local.mebmarket.com/meb/server1/102867/Thumbnail/book_detail_large.gif?2"
+  },
+  {
+    "id": 7,
+    "title": "วันพีชเล่ม99 หมวกฟางลูฟี่",
+    "author": "เออิจิโระ โอดะ",
+    "price": "80",
+    "available_copies": 155,
+    "cover_url": "https://storage.naiin.com/system/application/bookstore/resource/product/202109/533687/1000243548_front_XXL.jpg?imgname=One-Piece-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%9E%E0%B8%B5%E0%B8%8B-%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%A1-99-"
+  },
+  {
+    "id": 8,
+    "title": "วันพีชเล่ม100 ราชันผู้พิชิต",
+    "author": "เออิจิโระ โอดะ",
+    "price": "80",
+    "available_copies": 95,
+    "cover_url": "https://storage.naiin.com/system/application/bookstore/resource/product/202110/534739/1000244069_front_XXL.jpg?imgname=One-Piece-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%9E%E0%B8%B5%E0%B8%8B-%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%A1-100-(%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B9%E0%B8%99)"
+  },
+  {
+    "id": 9,
+    "title": "วันพีชเล่ม101 花形登場",
+    "author": "เออิจิโระ โอดะ",
+    "price": "80",
+    "available_copies": 15,
+    "cover_url": "https://cdn-local.mebmarket.com/meb/server1/186631/Thumbnail/book_detail_large.gif?2"
+  },
+  {
+    "id": 10,
+    "title": "วันพีชเล่ม102 One Piece วันพีช เล่ม 102",
+    "author": "เออิจิโระ โอดะ",
+    "price": "80",
+    "available_copies": 2,
+    "cover_url": "https://storage.naiin.com/system/application/bookstore/resource/product/202209/559399/6000064932_front_XXL.jpg?imgname=One-Piece-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%9E%E0%B8%B5%E0%B8%8B-%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%A1-102"
+  }
+]
